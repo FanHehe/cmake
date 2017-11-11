@@ -1,0 +1,3 @@
+/Users/fanhehe/Desktop/cmake/1/s1/build/CMakeFiles/rebuild_cache.dir
+/Users/fanhehe/Desktop/cmake/1/s1/build/CMakeFiles/edit_cache.dir
+/Users/fanhehe/Desktop/cmake/1/s1/build/CMakeFiles/hello.dir

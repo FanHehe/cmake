@@ -1,0 +1,8 @@
+/Users/fanhehe/Desktop/name/build/CMakeFiles/rebuild_cache.dir
+/Users/fanhehe/Desktop/name/build/CMakeFiles/edit_cache.dir
+/Users/fanhehe/Desktop/name/build/src/CMakeFiles/rebuild_cache.dir
+/Users/fanhehe/Desktop/name/build/src/CMakeFiles/edit_cache.dir
+/Users/fanhehe/Desktop/name/build/src/CMakeFiles/hello.dir
+/Users/fanhehe/Desktop/name/build/libhello/CMakeFiles/rebuild_cache.dir
+/Users/fanhehe/Desktop/name/build/libhello/CMakeFiles/edit_cache.dir
+/Users/fanhehe/Desktop/name/build/libhello/CMakeFiles/libhello.dir

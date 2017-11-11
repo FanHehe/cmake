@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -dynamiclib -Wl,-headerpad_max_install_names  -o libfoo.dylib -install_name /Users/fanhehe/Desktop/every/build/libfoo.dylib CMakeFiles/foo.dir/foo.o 

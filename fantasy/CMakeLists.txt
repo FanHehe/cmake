@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.6)
+project(fantasy)
+add_executable(main main.cpp)
+add_library(foo SHARED foo.cpp)
+target_link_libraries(main foo)
+include_directories(${CMAKE_SOURCE_DIR}/include)

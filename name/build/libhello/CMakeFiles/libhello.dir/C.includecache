@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fanhehe/Desktop/name/libhello/hello.c
+stdio.h
+-
+hello.h
+/Users/fanhehe/Desktop/name/libhello/hello.h
+
+/Users/fanhehe/Desktop/name/libhello/hello.h
+

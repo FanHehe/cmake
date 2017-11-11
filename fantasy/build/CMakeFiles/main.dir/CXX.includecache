@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/foo.h
+
+/Users/fanhehe/Desktop/fantasy/main.cpp
+foo.h
+/Users/fanhehe/Desktop/fantasy/foo.h
+
